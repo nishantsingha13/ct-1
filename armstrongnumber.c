@@ -1,8 +1,7 @@
 //
-//  main.c
-//  c2
+// 
 //
-//  Created by T Vikash Patra on 04/04/22.
+// 
 //
 
 #include <stdio.h>
